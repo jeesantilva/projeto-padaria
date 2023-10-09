@@ -1,0 +1,123 @@
+
+body{
+    margin: 0;
+    background-color: bisque;
+    font-family: Tahoma, sans-serif;
+}
+
+div{
+
+    width: 70vw;
+    margin: 30px auto;
+    text-align: center;
+}
+/* .logo{
+    border-bottom: 2px solid #C08261;
+} */
+.logo img{
+    width: 40%; 
+}
+
+a{
+    margin: 0 10px;
+    color: saddlebrown;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+
+ ul li {
+    display: inline;
+ }
+
+ ul{ 
+    background-color: #FFF2D8;
+ }
+ 
+ h1, h2{
+    margin-top: 5px;
+ }
+
+ h1{
+    text-transform: uppercase;
+    font-size: 40px;
+    color: #6C3428 ;
+    margin-top: 15px;
+   
+ }
+
+ h2{
+    font-size: 25px;
+    color: #C08261;
+ }
+
+ .sessao__apresentacao{
+
+    border-top: #6C3428 dotted 2px;
+    border-bottom: #6C3428 dotted 2px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+ }
+
+ .sessao__apresentacao img{
+    width: 100%;
+    border-radius: 3px;
+    margin-top: 10px;
+ }
+ 
+ section{
+    
+    padding-top: 15px ;
+    padding-bottom: 15px;
+
+
+ }
+
+ .sessao__produtos{
+    background-color: #DFA878;
+ }
+
+ h3{
+    color: #804718;
+    font-size: 30px;
+    
+
+ }
+
+ h4{
+    color:#B8621B;
+    font-size: 25px;
+    display: inline-block;
+    border: #6C3428 2px dotted;
+    padding: 10px;
+    
+   
+ }
+
+ p{
+    color: #6C3428 
+ }
+
+ section p {
+    padding: 8px;
+    font-size: 18px;
+ }
+
+ .sessao__produtos img{
+
+    width: 80%;
+ }
+
+ .sessao__contatos{
+
+    background-color: #FFF2D8;
+
+ }
+
+ .sessao__contatos h3{
+    font-size: 25px;
+    font-weight: normal;
+    padding-top: 10px;
+    padding-bottom: 10px;
+ }
+
