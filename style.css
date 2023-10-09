@@ -15,7 +15,7 @@ div{
     border-bottom: 2px solid #C08261;
 } */
 .logo img{
-    width: 40%; 
+    width: 50%; 
 }
 
 a{
@@ -40,14 +40,14 @@ a{
 
  h1{
     text-transform: uppercase;
-    font-size: 40px;
+    font-size: 20px;
     color: #6C3428 ;
     margin-top: 15px;
    
  }
 
  h2{
-    font-size: 25px;
+    font-size: 15px;
     color: #C08261;
  }
 
@@ -79,14 +79,14 @@ a{
 
  h3{
     color: #804718;
-    font-size: 30px;
+    font-size: 20px;
     
 
  }
 
  h4{
     color:#B8621B;
-    font-size: 25px;
+    font-size: 15px;
     display: inline-block;
     border: #6C3428 2px dotted;
     padding: 10px;
@@ -100,7 +100,7 @@ a{
 
  section p {
     padding: 8px;
-    font-size: 18px;
+    font-size: 16px;
  }
 
  .sessao__produtos img{
@@ -115,7 +115,7 @@ a{
  }
 
  .sessao__contatos h3{
-    font-size: 25px;
+    font-size: 15px;
     font-weight: normal;
     padding-top: 10px;
     padding-bottom: 10px;
